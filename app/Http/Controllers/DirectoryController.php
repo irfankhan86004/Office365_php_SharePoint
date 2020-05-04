@@ -139,9 +139,7 @@ class DirectoryController extends Controller
 	}
 	/*public function index() {
 		
-		$webUrl = 'https://codefoundrycoza.sharepoint.com/sites/test';
-        $userName = 'admin@codefoundrycoza.onmicrosoft.com';
-        $password = 'Cab53252';
+		
 		
 		$authCtx = new AuthenticationContext($webUrl);
 		
